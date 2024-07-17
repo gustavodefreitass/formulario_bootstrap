@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+    background-image: url(./fundo.jpg);
+    background-position: center center;
+    background-size: cover;
+
+}
+
+.row {
+    width: 450px;
+    margin-left: 38%;
+    margin-top: 10%;
+    background-color: rgba(41, 113, 177, 0.5);
+    padding: 30px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+label {
+    margin-top: 5px;
+}
+
+#botao {
+    margin-top: 10px;
+    display: flex;
+    justify-content: end;
+}
